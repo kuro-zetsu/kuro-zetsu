@@ -4,6 +4,15 @@
 
 I build things with **React, Python, and Flask**. Passionate about clean code and solving real-world problems.
 
+<!-- Animated typing -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Python+%7C+Flask;Open+To+Collaboration&center=true&size=20)
+
+<!-- Snake game animation -->
+![Snake animation](https://github.com/kuro-zetsu/kuro-zetsu/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Trophy stats -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=kuro-zetsu&theme=onedark)
+
 ## 🛠️ Tech Stack
 ```python
 class Reagan:
