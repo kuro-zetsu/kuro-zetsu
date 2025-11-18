@@ -17,7 +17,7 @@
 <div align="center">
 
 ### **Development**
-<img src="https://skillicons.dev/icons?i=react,js,ts,python,flask,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,python,flask,html,css,bootstrap" />
 
 ### **Data & Tools**
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode,linux,bash,postman" />
