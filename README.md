@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Moringa School Graduate** • **Building with React & Python** • **Open to Opportunities**
+**Building with React & Python** • **Open to Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reagan-nyauma-1744b991)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jreagan2525@gmail.com)
